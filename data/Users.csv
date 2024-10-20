@@ -1,0 +1,496 @@
+,state,lastLogin,createdDate,_id,active,signUpSource,role
+0,WI,{'$date': 1609687537858},{'$date': 1609687444800},{'$oid': '5ff1e194b6a9d73a3a9f1052'},True,Email,consumer
+1,WI,{'$date': 1609687537858},{'$date': 1609687444800},{'$oid': '5ff1e194b6a9d73a3a9f1052'},True,Email,consumer
+2,WI,{'$date': 1609687537858},{'$date': 1609687444800},{'$oid': '5ff1e194b6a9d73a3a9f1052'},True,Email,consumer
+3,WI,{'$date': 1609687530597},{'$date': 1609687530554},{'$oid': '5ff1e1eacfcf6c399c274ae6'},True,Email,consumer
+4,WI,{'$date': 1609687537858},{'$date': 1609687444800},{'$oid': '5ff1e194b6a9d73a3a9f1052'},True,Email,consumer
+5,WI,{'$date': 1609687537858},{'$date': 1609687444800},{'$oid': '5ff1e194b6a9d73a3a9f1052'},True,Email,consumer
+6,WI,{'$date': 1609687528392},{'$date': 1609687528354},{'$oid': '5ff1e1e8cfcf6c399c274ad9'},True,Email,consumer
+7,WI,{'$date': 1609687479665},{'$date': 1609687479626},{'$oid': '5ff1e1b7cfcf6c399c274a5a'},True,Email,consumer
+8,WI,{'$date': 1609687537858},{'$date': 1609687444800},{'$oid': '5ff1e194b6a9d73a3a9f1052'},True,Email,consumer
+9,WI,{'$date': 1609687537599},{'$date': 1609687537564},{'$oid': '5ff1e1f1cfcf6c399c274b0b'},True,Email,consumer
+10,WI,{'$date': 1609687537858},{'$date': 1609687444800},{'$oid': '5ff1e194b6a9d73a3a9f1052'},True,Email,consumer
+11,WI,{'$date': 1609687530597},{'$date': 1609687530554},{'$oid': '5ff1e1eacfcf6c399c274ae6'},True,Email,consumer
+12,WI,{'$date': 1609687537858},{'$date': 1609687444800},{'$oid': '5ff1e194b6a9d73a3a9f1052'},True,Email,consumer
+13,WI,{'$date': 1609687530597},{'$date': 1609687530554},{'$oid': '5ff1e1eacfcf6c399c274ae6'},True,Email,consumer
+14,WI,{'$date': 1609687537858},{'$date': 1609687444800},{'$oid': '5ff1e194b6a9d73a3a9f1052'},True,Email,consumer
+15,WI,{'$date': 1609687537858},{'$date': 1609687444800},{'$oid': '5ff1e194b6a9d73a3a9f1052'},True,Email,consumer
+16,WI,{'$date': 1609687524694},{'$date': 1609687524656},{'$oid': '5ff1e1e4cfcf6c399c274ac3'},True,Email,consumer
+17,WI,{'$date': 1609687476452},{'$date': 1609687476410},{'$oid': '5ff1e1b4cfcf6c399c274a54'},True,Email,consumer
+18,WI,{'$date': 1609687530597},{'$date': 1609687530554},{'$oid': '5ff1e1eacfcf6c399c274ae6'},True,Email,consumer
+19,WI,{'$date': 1609687537858},{'$date': 1609687444800},{'$oid': '5ff1e194b6a9d73a3a9f1052'},True,Email,consumer
+20,WI,{'$date': 1609789850563},{'$date': 1609789637776},{'$oid': '5ff370c562fde912123a5e0e'},True,Email,consumer
+21,WI,{'$date': 1609788882944},{'$date': 1609788675973},{'$oid': '5ff36d0362fde912123a5535'},True,Email,consumer
+22,WI,{'$date': 1609788803425},{'$date': 1609788803244},{'$oid': '5ff36d83135e7011bcb864d6'},True,Email,consumer
+23,WI,{'$date': 1609788553141},{'$date': 1609788552943},{'$oid': '5ff36c8862fde912123a538a'},True,Email,consumer
+24,WI,{'$date': 1609789850563},{'$date': 1609789637776},{'$oid': '5ff370c562fde912123a5e0e'},True,Email,consumer
+25,WI,{'$date': 1609788592726},{'$date': 1609788391239},{'$oid': '5ff36be7135e7011bcb856d3'},True,Email,consumer
+26,WI,{'$date': 1609788882944},{'$date': 1609788675973},{'$oid': '5ff36d0362fde912123a5535'},True,Email,consumer
+27,WI,{'$date': 1609788592726},{'$date': 1609788391239},{'$oid': '5ff36be7135e7011bcb856d3'},True,Email,consumer
+28,WI,{'$date': 1609788185340},{'$date': 1609787960352},{'$oid': '5ff36a3862fde912123a4460'},True,Email,consumer
+29,WI,{'$date': 1609788882944},{'$date': 1609788675973},{'$oid': '5ff36d0362fde912123a5535'},True,Email,consumer
+30,WI,{'$date': 1609788559173},{'$date': 1609788558994},{'$oid': '5ff36c8e135e7011bcb85da4'},True,Email,consumer
+31,WI,{'$date': 1609788185340},{'$date': 1609787960352},{'$oid': '5ff36a3862fde912123a4460'},True,Email,consumer
+32,WI,{'$date': 1609789850563},{'$date': 1609789637776},{'$oid': '5ff370c562fde912123a5e0e'},True,Email,consumer
+33,WI,{'$date': 1609788185340},{'$date': 1609787960352},{'$oid': '5ff36a3862fde912123a4460'},True,Email,consumer
+34,WI,{'$date': 1609788185340},{'$date': 1609787960352},{'$oid': '5ff36a3862fde912123a4460'},True,Email,consumer
+35,WI,{'$date': 1609789850563},{'$date': 1609789637776},{'$oid': '5ff370c562fde912123a5e0e'},True,Email,consumer
+36,WI,{'$date': 1609788185340},{'$date': 1609787960352},{'$oid': '5ff36a3862fde912123a4460'},True,Email,consumer
+37,WI,{'$date': 1609789850563},{'$date': 1609789637776},{'$oid': '5ff370c562fde912123a5e0e'},True,Email,consumer
+38,WI,{'$date': 1609789726997},{'$date': 1609789726807},{'$oid': '5ff3711e62fde912123a620e'},True,Email,consumer
+39,WI,{'$date': 1609788592726},{'$date': 1609788391239},{'$oid': '5ff36be7135e7011bcb856d3'},True,Email,consumer
+40,WI,{'$date': 1609879195131},{'$date': 1609879091229},{'$oid': '5ff4ce33c3d63511e2a484b6'},True,Email,consumer
+41,WI,{'$date': 1609855975877},{'$date': 1609855975669},{'$oid': '5ff473e7c1e2d0121a9b2697'},True,Email,consumer
+42,WI,{'$date': 1609856133550},{'$date': 1609855890233},{'$oid': '5ff47392c3d63511e2a47881'},True,Email,consumer
+43,WI,{'$date': 1609856133550},{'$date': 1609855890233},{'$oid': '5ff47392c3d63511e2a47881'},True,Email,consumer
+44,WI,{'$date': 1609879195131},{'$date': 1609879091229},{'$oid': '5ff4ce33c3d63511e2a484b6'},True,Email,consumer
+45,WI,{'$date': 1609879185329},{'$date': 1609879185282},{'$oid': '5ff4ce91c1e2d0121a9b3057'},True,Email,consumer
+46,WI,{'$date': 1609856133550},{'$date': 1609855890233},{'$oid': '5ff47392c3d63511e2a47881'},True,Email,consumer
+47,WI,{'$date': 1609879101938},{'$date': 1609879101887},{'$oid': '5ff4ce3dc3d63511e2a484dc'},True,Email,consumer
+48,WI,{'$date': 1609879195131},{'$date': 1609879091229},{'$oid': '5ff4ce33c3d63511e2a484b6'},True,Email,consumer
+49,WI,{'$date': 1609879101938},{'$date': 1609879101887},{'$oid': '5ff4ce3dc3d63511e2a484dc'},True,Email,consumer
+50,WI,{'$date': 1609879195131},{'$date': 1609879091229},{'$oid': '5ff4ce33c3d63511e2a484b6'},True,Email,consumer
+51,WI,{'$date': 1609856133550},{'$date': 1609855890233},{'$oid': '5ff47392c3d63511e2a47881'},True,Email,consumer
+52,WI,{'$date': 1609879101938},{'$date': 1609879101887},{'$oid': '5ff4ce3dc3d63511e2a484dc'},True,Email,consumer
+53,WI,{'$date': 1609879101938},{'$date': 1609879101887},{'$oid': '5ff4ce3dc3d63511e2a484dc'},True,Email,consumer
+54,WI,{'$date': 1609879195131},{'$date': 1609879091229},{'$oid': '5ff4ce33c3d63511e2a484b6'},True,Email,consumer
+55,WI,{'$date': 1609879092565},{'$date': 1609879092503},{'$oid': '5ff4ce34c3d63511e2a484ba'},True,Email,consumer
+56,WI,{'$date': 1609879195131},{'$date': 1609879091229},{'$oid': '5ff4ce33c3d63511e2a484b6'},True,Email,consumer
+57,WI,{'$date': 1609879195131},{'$date': 1609879091229},{'$oid': '5ff4ce33c3d63511e2a484b6'},True,Email,consumer
+58,WI,{'$date': 1609879098495},{'$date': 1609879098446},{'$oid': '5ff4ce3ac1e2d0121a9b2fb3'},True,Email,consumer
+59,WI,{'$date': 1609856133550},{'$date': 1609855890233},{'$oid': '5ff47392c3d63511e2a47881'},True,Email,consumer
+60,WI,{'$date': 1609945690009},{'$date': 1609945434680},{'$oid': '5ff5d15aeb7c7d12096d91a2'},True,Email,consumer
+61,WI,{'$date': 1609945690009},{'$date': 1609945434680},{'$oid': '5ff5d15aeb7c7d12096d91a2'},True,Email,consumer
+62,WI,{'$date': 1609945690009},{'$date': 1609945434680},{'$oid': '5ff5d15aeb7c7d12096d91a2'},True,Email,consumer
+63,WI,{'$date': 1609945690009},{'$date': 1609945434680},{'$oid': '5ff5d15aeb7c7d12096d91a2'},True,Email,consumer
+64,WI,{'$date': 1609945690009},{'$date': 1609945434680},{'$oid': '5ff5d15aeb7c7d12096d91a2'},True,Email,consumer
+65,WI,{'$date': 1609945690009},{'$date': 1609945434680},{'$oid': '5ff5d15aeb7c7d12096d91a2'},True,Email,consumer
+66,WI,{'$date': 1609945507878},{'$date': 1609945507667},{'$oid': '5ff5d1a38f142f11dd1886ba'},True,Email,consumer
+67,WI,{'$date': 1609945690009},{'$date': 1609945434680},{'$oid': '5ff5d15aeb7c7d12096d91a2'},True,Email,consumer
+68,WI,{'$date': 1609945690009},{'$date': 1609945434680},{'$oid': '5ff5d15aeb7c7d12096d91a2'},True,Email,consumer
+69,WI,{'$date': 1609945690009},{'$date': 1609945434680},{'$oid': '5ff5d15aeb7c7d12096d91a2'},True,Email,consumer
+70,WI,{'$date': 1609945690009},{'$date': 1609945434680},{'$oid': '5ff5d15aeb7c7d12096d91a2'},True,Email,consumer
+71,WI,{'$date': 1609945690009},{'$date': 1609945434680},{'$oid': '5ff5d15aeb7c7d12096d91a2'},True,Email,consumer
+72,WI,{'$date': 1609945690009},{'$date': 1609945434680},{'$oid': '5ff5d15aeb7c7d12096d91a2'},True,Email,consumer
+73,WI,{'$date': 1609945690009},{'$date': 1609945434680},{'$oid': '5ff5d15aeb7c7d12096d91a2'},True,Email,consumer
+74,WI,{'$date': 1609945690009},{'$date': 1609945434680},{'$oid': '5ff5d15aeb7c7d12096d91a2'},True,Email,consumer
+75,WI,{'$date': 1609945690009},{'$date': 1609945434680},{'$oid': '5ff5d15aeb7c7d12096d91a2'},True,Email,consumer
+76,WI,{'$date': 1609945552717},{'$date': 1609945552484},{'$oid': '5ff5d1d08f142f11dd18884c'},True,Email,consumer
+77,WI,{'$date': 1609945690009},{'$date': 1609945434680},{'$oid': '5ff5d15aeb7c7d12096d91a2'},True,Email,consumer
+78,WI,{'$date': 1609945690009},{'$date': 1609945434680},{'$oid': '5ff5d15aeb7c7d12096d91a2'},True,Email,consumer
+79,WI,{'$date': 1609945690009},{'$date': 1609945434680},{'$oid': '5ff5d15aeb7c7d12096d91a2'},True,Email,consumer
+80,WI,{'$date': 1610032826821},{'$date': 1610032718596},{'$oid': '5ff7264e8f142f11dd189504'},True,Email,consumer
+81,WI,{'$date': 1610039324352},{'$date': 1610039324072},{'$oid': '5ff7401ceb7c7d31ca8a46e0'},True,Email,consumer
+82,WI,{'$date': 1610038250255},{'$date': 1610038250206},{'$oid': '5ff73bea8f142f3276c3e84a'},True,Email,consumer
+83,WI,{'$date': 1610043423217},{'$date': 1610043197921},{'$oid': '5ff74f3db3348b11c93361d1'},True,Email,consumer
+84,WI,{'$date': 1610032826821},{'$date': 1610032718596},{'$oid': '5ff7264e8f142f11dd189504'},True,Email,consumer
+85,WI,{'$date': 1610038267267},{'$date': 1610038160959},{'$oid': '5ff73b90eb7c7d31ca8a452b'},True,Email,consumer
+86,WI,{'$date': 1610060994656},{'$date': 1610060559759},{'$oid': '5ff7930fb3348b11c93372a6'},True,Email,consumer
+87,WI,{'$date': 1610032782630},{'$date': 1610032782584},{'$oid': '5ff7268eeb7c7d12096da2a9'},True,Email,consumer
+88,WI,{'$date': 1610032782630},{'$date': 1610032782584},{'$oid': '5ff7268eeb7c7d12096da2a9'},True,Email,consumer
+89,WI,{'$date': 1610032826821},{'$date': 1610032718596},{'$oid': '5ff7264e8f142f11dd189504'},True,Email,consumer
+90,WI,{'$date': 1610060994656},{'$date': 1610060559759},{'$oid': '5ff7930fb3348b11c93372a6'},True,Email,consumer
+91,WI,{'$date': 1610032800353},{'$date': 1610032800299},{'$oid': '5ff726a0eb7c7d12096da2db'},True,Email,consumer
+92,WI,{'$date': 1610060765681},{'$date': 1610060765503},{'$oid': '5ff793dd04929111f6e90c69'},True,Email,consumer
+93,WI,{'$date': 1610060958840},{'$date': 1610060958699},{'$oid': '5ff7949eb3348b11c93373d2'},True,Email,consumer
+94,WI,{'$date': 1610032780243},{'$date': 1610032780196},{'$oid': '5ff7268c8f142f11dd189579'},True,Email,consumer
+95,WI,{'$date': 1610038267267},{'$date': 1610038160959},{'$oid': '5ff73b90eb7c7d31ca8a452b'},True,Email,consumer
+96,WI,{'$date': 1610032826821},{'$date': 1610032718596},{'$oid': '5ff7264e8f142f11dd189504'},True,Email,consumer
+97,KY,,{'$date': 1609963174996},{'$oid': '5ff616a68f142f11dd189163'},True,Email,consumer
+98,WI,{'$date': 1610060994656},{'$date': 1610060559759},{'$oid': '5ff7930fb3348b11c93372a6'},True,Email,consumer
+99,WI,{'$date': 1610060900301},{'$date': 1610060900153},{'$oid': '5ff79464b3348b11c933738b'},True,Email,consumer
+100,WI,{'$date': 1610138177831},{'$date': 1610138177626},{'$oid': '5ff8c241b3348b11c93379fc'},True,Email,consumer
+101,WI,{'$date': 1610141399411},{'$date': 1610141317743},{'$oid': '5ff8ce8504929111f6e913cb'},True,Email,consumer
+102,WI,{'$date': 1610141399411},{'$date': 1610141317743},{'$oid': '5ff8ce8504929111f6e913cb'},True,Email,consumer
+103,WI,{'$date': 1610118201259},{'$date': 1610118097348},{'$oid': '5ff873d1b3348b11c9337716'},True,Email,consumer
+104,WI,{'$date': 1610118127655},{'$date': 1610118127604},{'$oid': '5ff873ef04929111f6e910f0'},True,Email,consumer
+105,WI,{'$date': 1610138857088},{'$date': 1610138856724},{'$oid': '5ff8c4e8b3348b11c9337a11'},True,Email,consumer
+106,WI,{'$date': 1610118201259},{'$date': 1610118097348},{'$oid': '5ff873d1b3348b11c9337716'},True,Email,consumer
+107,WI,{'$date': 1610144389939},{'$date': 1610144296844},{'$oid': '5ff8da28b3348b11c9337ac6'},True,Email,consumer
+108,WI,{'$date': 1610144381738},{'$date': 1610144381689},{'$oid': '5ff8da7db3348b11c9337b6a'},True,Email,consumer
+109,WI,{'$date': 1610118109202},{'$date': 1610118109160},{'$oid': '5ff873ddb3348b11c9337733'},True,Email,consumer
+110,WI,{'$date': 1610129693928},{'$date': 1610129693734},{'$oid': '5ff8a11db3348b11c93378aa'},True,Email,consumer
+111,WI,{'$date': 1610118201259},{'$date': 1610118097348},{'$oid': '5ff873d1b3348b11c9337716'},True,Email,consumer
+112,WI,{'$date': 1610118201259},{'$date': 1610118097348},{'$oid': '5ff873d1b3348b11c9337716'},True,Email,consumer
+113,WI,{'$date': 1610118201259},{'$date': 1610118097348},{'$oid': '5ff873d1b3348b11c9337716'},True,Email,consumer
+114,WI,{'$date': 1610141399411},{'$date': 1610141317743},{'$oid': '5ff8ce8504929111f6e913cb'},True,Email,consumer
+115,WI,{'$date': 1610143284518},{'$date': 1610143284238},{'$oid': '5ff8d634b3348b11c9337aa4'},True,Email,consumer
+116,WI,{'$date': 1610144389939},{'$date': 1610144296844},{'$oid': '5ff8da28b3348b11c9337ac6'},True,Email,consumer
+117,WI,{'$date': 1610138416933},{'$date': 1610138416722},{'$oid': '5ff8c330b3348b11c9337a04'},True,Email,consumer
+118,WI,{'$date': 1610118109202},{'$date': 1610118109160},{'$oid': '5ff873ddb3348b11c9337733'},True,Email,consumer
+119,WI,{'$date': 1610144382749},{'$date': 1610144382704},{'$oid': '5ff8da7eb3348b11c9337b72'},True,Email,consumer
+120,WI,{'$date': 1610396901430},{'$date': 1610396797225},{'$oid': '5ffcb47d04929111f6e9256c'},True,Email,consumer
+121,WI,{'$date': 1610387449567},{'$date': 1610387449527},{'$oid': '5ffc8ff9b3348b11c9338896'},True,Email,consumer
+122,WI,{'$date': 1610387456750},{'$date': 1610387351890},{'$oid': '5ffc8f9704929111f6e922bf'},True,Email,consumer
+123,WI,{'$date': 1610387457415},{'$date': 1610387457375},{'$oid': '5ffc9001b3348b11c93388b6'},True,Email,consumer
+124,WI,{'$date': 1610387449567},{'$date': 1610387449527},{'$oid': '5ffc8ff9b3348b11c9338896'},True,Email,consumer
+125,WI,{'$date': 1610387456750},{'$date': 1610387351890},{'$oid': '5ffc8f9704929111f6e922bf'},True,Email,consumer
+126,WI,{'$date': 1610387456750},{'$date': 1610387351890},{'$oid': '5ffc8f9704929111f6e922bf'},True,Email,consumer
+127,WI,{'$date': 1610387449567},{'$date': 1610387449527},{'$oid': '5ffc8ff9b3348b11c9338896'},True,Email,consumer
+128,WI,{'$date': 1610387449567},{'$date': 1610387449527},{'$oid': '5ffc8ff9b3348b11c9338896'},True,Email,consumer
+129,WI,{'$date': 1610396860265},{'$date': 1610396860225},{'$oid': '5ffcb4bc04929111f6e92608'},True,Email,consumer
+130,WI,{'$date': 1610391013461},{'$date': 1610390919076},{'$oid': '5ffc9d87b3348b11c9338920'},True,Email,consumer
+131,WI,{'$date': 1610387456750},{'$date': 1610387351890},{'$oid': '5ffc8f9704929111f6e922bf'},True,Email,consumer
+132,WI,{'$date': 1610391013461},{'$date': 1610390919076},{'$oid': '5ffc9d87b3348b11c9338920'},True,Email,consumer
+133,WI,{'$date': 1610396901430},{'$date': 1610396797225},{'$oid': '5ffcb47d04929111f6e9256c'},True,Email,consumer
+134,WI,{'$date': 1610391013461},{'$date': 1610390919076},{'$oid': '5ffc9d87b3348b11c9338920'},True,Email,consumer
+135,WI,{'$date': 1610387456750},{'$date': 1610387351890},{'$oid': '5ffc8f9704929111f6e922bf'},True,Email,consumer
+136,WI,{'$date': 1610396860265},{'$date': 1610396860225},{'$oid': '5ffcb4bc04929111f6e92608'},True,Email,consumer
+137,WI,{'$date': 1610387456750},{'$date': 1610387351890},{'$oid': '5ffc8f9704929111f6e922bf'},True,Email,consumer
+138,WI,{'$date': 1610390943965},{'$date': 1610390943920},{'$oid': '5ffc9d9f04929111f6e92456'},True,Email,consumer
+139,WI,{'$date': 1610392326791},{'$date': 1610392326515},{'$oid': '5ffca30604929111f6e92525'},True,Email,consumer
+140,WI,{'$date': 1610551192678},{'$date': 1610551192446},{'$oid': '5fff0f9804929101d0ab0697'},True,Email,consumer
+141,WI,{'$date': 1610551322153},{'$date': 1610551119070},{'$oid': '5fff0f4fb3348b03eb45abb0'},True,Email,consumer
+142,WI,{'$date': 1610566872676},{'$date': 1610566638415},{'$oid': '5fff4beedf9ace121f0c17ea'},True,Email,consumer
+143,AL,,{'$date': 1610486100208},{'$oid': '5ffe115404929101d0aaebb2'},True,Email,consumer
+144,WI,{'$date': 1610569406975},{'$date': 1610569178721},{'$oid': '5fff55dabd4dff11dda8f5f1'},True,Email,consumer
+145,WI,{'$date': 1610551322153},{'$date': 1610551119070},{'$oid': '5fff0f4fb3348b03eb45abb0'},True,Email,consumer
+146,WI,{'$date': 1610569406975},{'$date': 1610569178721},{'$oid': '5fff55dabd4dff11dda8f5f1'},True,Email,consumer
+147,WI,{'$date': 1610566872676},{'$date': 1610566638415},{'$oid': '5fff4beedf9ace121f0c17ea'},True,Email,consumer
+148,AL,,{'$date': 1610486100208},{'$oid': '5ffe115404929101d0aaebb2'},True,Email,consumer
+149,WI,{'$date': 1610557114075},{'$date': 1610557114027},{'$oid': '5fff26bab3348b03eb45bb22'},True,Email,consumer
+150,WI,{'$date': 1610569406975},{'$date': 1610569178721},{'$oid': '5fff55dabd4dff11dda8f5f1'},True,Email,consumer
+151,WI,{'$date': 1610551322153},{'$date': 1610551119070},{'$oid': '5fff0f4fb3348b03eb45abb0'},True,Email,consumer
+152,WI,{'$date': 1610569406975},{'$date': 1610569178721},{'$oid': '5fff55dabd4dff11dda8f5f1'},True,Email,consumer
+153,WI,{'$date': 1610569406975},{'$date': 1610569178721},{'$oid': '5fff55dabd4dff11dda8f5f1'},True,Email,consumer
+154,WI,{'$date': 1610566773163},{'$date': 1610566772913},{'$oid': '5fff4c7461ffa811fdb0854c'},True,Email,consumer
+155,WI,{'$date': 1610557119463},{'$date': 1610557119411},{'$oid': '5fff26bfb3348b03eb45bb32'},True,Email,consumer
+156,WI,{'$date': 1610569406975},{'$date': 1610569178721},{'$oid': '5fff55dabd4dff11dda8f5f1'},True,Email,consumer
+157,WI,{'$date': 1610551322153},{'$date': 1610551119070},{'$oid': '5fff0f4fb3348b03eb45abb0'},True,Email,consumer
+158,WI,{'$date': 1610557170567},{'$date': 1610557170518},{'$oid': '5fff26f2b3348b03eb45bbb9'},True,Email,consumer
+159,WI,{'$date': 1610569406975},{'$date': 1610569178721},{'$oid': '5fff55dabd4dff11dda8f5f1'},True,Email,consumer
+160,WI,{'$date': 1610667194903},{'$date': 1610667194861},{'$oid': '6000d4bae2571211db395b9f'},True,Email,consumer
+161,WI,{'$date': 1610635030767},{'$date': 1610634915207},{'$oid': '600056a3f7e5b011fce897b0'},True,Email,consumer
+162,WI,{'$date': 1610635030767},{'$date': 1610634915207},{'$oid': '600056a3f7e5b011fce897b0'},True,Email,consumer
+163,WI,{'$date': 1610635030767},{'$date': 1610634915207},{'$oid': '600056a3f7e5b011fce897b0'},True,Email,consumer
+164,WI,{'$date': 1610667232701},{'$date': 1610667116665},{'$oid': '6000d46cfb296c121a81b20c'},True,Email,consumer
+165,WI,{'$date': 1610660002666},{'$date': 1610659758188},{'$oid': '6000b7aefb296c121a8198b1'},True,Email,consumer
+166,WI,{'$date': 1610635018051},{'$date': 1610635017988},{'$oid': '60005709bd4dff11dda90ac1'},True,Email,consumer
+167,WI,{'$date': 1610660002666},{'$date': 1610659758188},{'$oid': '6000b7aefb296c121a8198b1'},True,Email,consumer
+168,WI,{'$date': 1610635030767},{'$date': 1610634915207},{'$oid': '600056a3f7e5b011fce897b0'},True,Email,consumer
+169,WI,{'$date': 1610660002666},{'$date': 1610659758188},{'$oid': '6000b7aefb296c121a8198b1'},True,Email,consumer
+170,WI,,{'$date': 1579635309795},{'$oid': '5e27526d0bdb6a138c32b556'},True,Google,consumer
+171,WI,{'$date': 1610635030767},{'$date': 1610634915207},{'$oid': '600056a3f7e5b011fce897b0'},True,Email,consumer
+172,WI,{'$date': 1610667232701},{'$date': 1610667116665},{'$oid': '6000d46cfb296c121a81b20c'},True,Email,consumer
+173,WI,{'$date': 1610667179248},{'$date': 1610667179197},{'$oid': '6000d4abe2571211db395b5c'},True,Email,consumer
+174,WI,{'$date': 1610634966208},{'$date': 1610634966157},{'$oid': '600056d6bd4dff11dda90a3f'},True,Email,consumer
+175,WI,{'$date': 1610635012418},{'$date': 1610635012368},{'$oid': '60005704bd4dff11dda90a9d'},True,Email,consumer
+176,WI,{'$date': 1610635030767},{'$date': 1610634915207},{'$oid': '600056a3f7e5b011fce897b0'},True,Email,consumer
+177,WI,{'$date': 1610635030767},{'$date': 1610634915207},{'$oid': '600056a3f7e5b011fce897b0'},True,Email,consumer
+178,WI,{'$date': 1610635030767},{'$date': 1610634915207},{'$oid': '600056a3f7e5b011fce897b0'},True,Email,consumer
+179,WI,{'$date': 1610635018051},{'$date': 1610635017988},{'$oid': '60005709bd4dff11dda90ac1'},True,Email,consumer
+180,WI,,{'$date': 1610762076571},{'$oid': '6002475cfb296c121a81b98d'},True,Email,consumer
+181,WI,,{'$date': 1610764069345},{'$oid': '60024f24e257124ec6b99a13'},True,Email,consumer
+182,WI,,{'$date': 1610838825574},{'$oid': '60037329e257124ec6b99eeb'},True,Email,consumer
+183,AL,,{'$date': 1610659675938},{'$oid': '6000b75bbe5fc96dfee1d4d3'},True,Email,consumer
+184,WI,,{'$date': 1610765338736},{'$oid': '6002541ae257124ec6b99a3a'},True,Email,consumer
+185,AL,,{'$date': 1610659675938},{'$oid': '6000b75bbe5fc96dfee1d4d3'},True,Email,consumer
+186,WI,,{'$date': 1610766554959},{'$oid': '600258dafb296c4ef805d9b7'},True,Email,consumer
+187,WI,,{'$date': 1610767461980},{'$oid': '60025c65fb296c4ef805d9e6'},True,Email,consumer
+188,WI,,{'$date': 1610838021504},{'$oid': '60037005e257124ec6b99ec2'},True,Email,consumer
+189,WI,,{'$date': 1610767461980},{'$oid': '60025c65fb296c4ef805d9e6'},True,Email,consumer
+190,AL,,{'$date': 1610659675938},{'$oid': '6000b75bbe5fc96dfee1d4d3'},True,Email,consumer
+191,AL,,{'$date': 1610659675938},{'$oid': '6000b75bbe5fc96dfee1d4d3'},True,Email,consumer
+192,WI,,{'$date': 1610767461980},{'$oid': '60025c65fb296c4ef805d9e6'},True,Email,consumer
+193,AL,,{'$date': 1610659675938},{'$oid': '6000b75bbe5fc96dfee1d4d3'},True,Email,consumer
+194,AL,,{'$date': 1610659675938},{'$oid': '6000b75bbe5fc96dfee1d4d3'},True,Email,consumer
+195,CO,,{'$date': 1610759653653},{'$oid': '60023de5fb296c121a81b955'},True,Email,consumer
+196,WI,,{'$date': 1610765338736},{'$oid': '6002541ae257124ec6b99a3a'},True,Email,consumer
+197,WI,,{'$date': 1610915036994},{'$oid': '60049cdce257124ec6b9a353'},True,Email,consumer
+198,WI,,{'$date': 1610768353154},{'$oid': '60025fe0e257124ec6b99a87'},True,Email,consumer
+199,WI,,{'$date': 1610913989321},{'$oid': '600498c4e257124ec6b9a331'},True,Email,consumer
+200,WI,,{'$date': 1610917331432},{'$oid': '6004a5d3fb296c4ef805e256'},True,Email,consumer
+201,WI,,{'$date': 1610840725319},{'$oid': '60037a94fb296c4ef805ddbe'},True,Email,consumer
+202,WI,,{'$date': 1610913219356},{'$oid': '600495c3fb296c4ef805e1fc'},True,Email,consumer
+203,WI,,{'$date': 1610918245327},{'$oid': '6004a965e257124ec6b9a39f'},True,Email,consumer
+204,WI,{'$date': 1611089708492},{'$date': 1611089483347},{'$oid': '6007464b6e64691717e8c1f0'},True,Email,consumer
+205,WI,{'$date': 1611089708492},{'$date': 1611089483347},{'$oid': '6007464b6e64691717e8c1f0'},True,Email,consumer
+206,WI,{'$date': 1611088743299},{'$date': 1611088337000},{'$oid': '600741d06e6469120a787853'},True,Email,consumer
+207,WI,{'$date': 1611090162824},{'$date': 1611089945175},{'$oid': '600748196e64691717e8d4f0'},True,Email,consumer
+208,WI,{'$date': 1611089661487},{'$date': 1611089661274},{'$oid': '600746fd6e64691717e8cfb5'},True,Email,consumer
+209,WI,{'$date': 1611090969332},{'$date': 1611090761649},{'$oid': '60074b49325c8a1794623876'},True,Email,consumer
+210,WI,{'$date': 1611090969332},{'$date': 1611090761649},{'$oid': '60074b49325c8a1794623876'},True,Email,consumer
+211,WI,{'$date': 1611090842010},{'$date': 1611090841809},{'$oid': '60074b996e64691717e8f11a'},True,Email,consumer
+212,WI,{'$date': 1611090162824},{'$date': 1611089945175},{'$oid': '600748196e64691717e8d4f0'},True,Email,consumer
+213,WI,{'$date': 1611088743299},{'$date': 1611088337000},{'$oid': '600741d06e6469120a787853'},True,Email,consumer
+214,WI,{'$date': 1611088743299},{'$date': 1611088337000},{'$oid': '600741d06e6469120a787853'},True,Email,consumer
+215,WI,{'$date': 1611088743299},{'$date': 1611088337000},{'$oid': '600741d06e6469120a787853'},True,Email,consumer
+216,WI,{'$date': 1611088743299},{'$date': 1611088337000},{'$oid': '600741d06e6469120a787853'},True,Email,consumer
+217,WI,{'$date': 1611090162824},{'$date': 1611089945175},{'$oid': '600748196e64691717e8d4f0'},True,Email,consumer
+218,WI,{'$date': 1611088743299},{'$date': 1611088337000},{'$oid': '600741d06e6469120a787853'},True,Email,consumer
+219,WI,{'$date': 1611089708492},{'$date': 1611089483347},{'$oid': '6007464b6e64691717e8c1f0'},True,Email,consumer
+220,WI,{'$date': 1611090162824},{'$date': 1611089945175},{'$oid': '600748196e64691717e8d4f0'},True,Email,consumer
+221,WI,{'$date': 1611088455511},{'$date': 1611088455284},{'$oid': '60074246325c8a12289e22a0'},True,Email,consumer
+222,WI,{'$date': 1611090051660},{'$date': 1611090051464},{'$oid': '60074883325c8a1794622a12'},True,Email,consumer
+223,AL,,{'$date': 1611069318644},{'$oid': '6006f786fb296c7f688530f8'},True,Email,consumer
+224,WI,{'$date': 1611173274542},{'$date': 1611173205740},{'$oid': '60088d55633aab121bb8e41a'},True,Email,consumer
+225,WI,{'$date': 1611172233205},{'$date': 1611172155040},{'$oid': '6008893b633aab121bb8e0a9'},True,Email,consumer
+226,WI,{'$date': 1611172233205},{'$date': 1611172155040},{'$oid': '6008893b633aab121bb8e0a9'},True,Email,consumer
+227,WI,{'$date': 1611152104611},{'$date': 1611151902022},{'$oid': '60083a1e325c8a17946255de'},True,Email,consumer
+228,WI,,{'$date': 1611172204439},{'$oid': '6008896c633aab121bb8e11d'},True,Email,consumer
+229,WI,{'$date': 1611164170045},{'$date': 1611164169747},{'$oid': '60086a09b6310511daa4e1e9'},True,Email,consumer
+230,WI,{'$date': 1611173274542},{'$date': 1611173205740},{'$oid': '60088d55633aab121bb8e41a'},True,Email,consumer
+231,WI,{'$date': 1611173470035},{'$date': 1611173469989},{'$oid': '60088e5d633aab121bb8e5cf'},True,Email,consumer
+232,WI,{'$date': 1611160614993},{'$date': 1611160381152},{'$oid': '60085b3dbe5fc90ee6a67b11'},True,Email,consumer
+233,WI,{'$date': 1611173515932},{'$date': 1611173444695},{'$oid': '60088e44b6310511daa4ef80'},True,Email,consumer
+234,WI,{'$date': 1611172233205},{'$date': 1611172155040},{'$oid': '6008893b633aab121bb8e0a9'},True,Email,consumer
+235,WI,{'$date': 1611172233205},{'$date': 1611172155040},{'$oid': '6008893b633aab121bb8e0a9'},True,Email,consumer
+236,WI,{'$date': 1611173252079},{'$date': 1611173252034},{'$oid': '60088d84633aab121bb8e4a6'},True,Email,consumer
+237,WI,{'$date': 1611171778793},{'$date': 1611171646148},{'$oid': '6008873eb6310511daa4e8eb'},True,Email,consumer
+238,WI,{'$date': 1611164251189},{'$date': 1611164024062},{'$oid': '60086978633aab121bb8c895'},True,Email,consumer
+239,WI,{'$date': 1611172462851},{'$date': 1611172389274},{'$oid': '60088a25b6310511daa4ec42'},True,Email,consumer
+240,WI,{'$date': 1611162158931},{'$date': 1611162158662},{'$oid': '6008622ebe5fc9247bab4eb9'},False,Email,consumer
+241,WI,{'$date': 1611172233205},{'$date': 1611172155040},{'$oid': '6008893b633aab121bb8e0a9'},True,Email,consumer
+242,WI,{'$date': 1611172218526},{'$date': 1611172218469},{'$oid': '6008897ab6310511daa4ebdc'},True,Email,consumer
+243,WI,{'$date': 1611172422948},{'$date': 1611172422902},{'$oid': '60088a46b6310511daa4ec97'},True,Email,consumer
+244,WI,{'$date': 1611237561063},{'$date': 1611237335327},{'$oid': '600987d77d983a11f63cfa92'},True,Email,consumer
+245,WI,{'$date': 1611237561063},{'$date': 1611237335327},{'$oid': '600987d77d983a11f63cfa92'},True,Email,consumer
+246,WI,{'$date': 1611237561063},{'$date': 1611237335327},{'$oid': '600987d77d983a11f63cfa92'},True,Email,consumer
+247,IL,,{'$date': 1611198511692},{'$oid': '6008f02fb6310511daa4f314'},True,Email,consumer
+248,WI,{'$date': 1611237461485},{'$date': 1611237461269},{'$oid': '600988557d983a11f63d08ef'},True,Email,consumer
+249,WI,{'$date': 1611237468698},{'$date': 1611237468490},{'$oid': '6009885c50b33111fd61eee9'},True,Email,consumer
+250,WI,{'$date': 1611237561063},{'$date': 1611237335327},{'$oid': '600987d77d983a11f63cfa92'},True,Email,consumer
+251,WI,,{'$date': 1611261445244},{'$oid': '6009e60450b3311194385009'},True,Email,consumer
+252,WI,,{'$date': 1611261445244},{'$oid': '6009e60450b3311194385009'},True,Email,consumer
+253,WI,,{'$date': 1611191367425},{'$oid': '6008d447b6310511daa4f281'},True,Email,consumer
+254,WI,,{'$date': 1611261445244},{'$oid': '6009e60450b3311194385009'},True,Email,consumer
+255,WI,{'$date': 1611237561063},{'$date': 1611237335327},{'$oid': '600987d77d983a11f63cfa92'},True,Email,consumer
+256,WI,,{'$date': 1611242516507},{'$oid': '60099c1450b33111fd61f702'},True,Email,consumer
+257,WI,{'$date': 1611237561063},{'$date': 1611237335327},{'$oid': '600987d77d983a11f63cfa92'},True,Email,consumer
+258,IL,,{'$date': 1611196877264},{'$oid': '6008e9cdb6310511daa4f2e4'},True,Email,consumer
+259,WI,{'$date': 1611237561063},{'$date': 1611237335327},{'$oid': '600987d77d983a11f63cfa92'},True,Email,consumer
+260,WI,,{'$date': 1611269089842},{'$oid': '600a03e17d983a124e9adb0f'},True,Email,consumer
+261,WI,{'$date': 1611237561063},{'$date': 1611237335327},{'$oid': '600987d77d983a11f63cfa92'},True,Email,consumer
+262,WI,{'$date': 1611237561063},{'$date': 1611237335327},{'$oid': '600987d77d983a11f63cfa92'},True,Email,consumer
+263,WI,,{'$date': 1611240145107},{'$oid': '600992d17d983a11f63d11ad'},True,Email,consumer
+264,WI,,{'$date': 1611351934904},{'$oid': '600b477e7d983a124e9ae061'},True,Email,consumer
+265,WI,{'$date': 1611596151918},{'$date': 1611595919409},{'$oid': '600f008f4329897eac237bd8'},True,Email,consumer
+266,WI,{'$date': 1611596151918},{'$date': 1611595919409},{'$oid': '600f008f4329897eac237bd8'},True,Email,consumer
+267,WI,{'$date': 1611596151918},{'$date': 1611595919409},{'$oid': '600f008f4329897eac237bd8'},True,Email,consumer
+268,WI,{'$date': 1611584642036},{'$date': 1611584641806},{'$oid': '600ed4815edb7811cde6b50b'},True,Email,consumer
+269,WI,{'$date': 1611596151918},{'$date': 1611595919409},{'$oid': '600f008f4329897eac237bd8'},True,Email,consumer
+270,WI,{'$date': 1611612989531},{'$date': 1611612595031},{'$oid': '600f41b2bd196811e68ea219'},True,Email,consumer
+271,WI,,{'$date': 1611604161843},{'$oid': '600f20c15edb787dce060911'},True,Email,consumer
+272,WI,{'$date': 1611614413981},{'$date': 1611614192551},{'$oid': '600f47f06fd0dc1768a34a12'},True,Email,consumer
+273,WI,{'$date': 1611584964970},{'$date': 1611584559286},{'$oid': '600ed42e43298911ce45d1fa'},True,Email,consumer
+274,WI,{'$date': 1611584964970},{'$date': 1611584559286},{'$oid': '600ed42e43298911ce45d1fa'},True,Email,consumer
+275,WI,{'$date': 1611612989531},{'$date': 1611612595031},{'$oid': '600f41b2bd196811e68ea219'},True,Email,consumer
+276,WI,{'$date': 1611584964970},{'$date': 1611584559286},{'$oid': '600ed42e43298911ce45d1fa'},True,Email,consumer
+277,WI,{'$date': 1611596151918},{'$date': 1611595919409},{'$oid': '600f008f4329897eac237bd8'},True,Email,consumer
+278,WI,{'$date': 1611596151918},{'$date': 1611595919409},{'$oid': '600f008f4329897eac237bd8'},True,Email,consumer
+279,WI,,{'$date': 1611590227029},{'$oid': '600eea525edb7811cde6c81c'},True,Email,consumer
+280,WI,{'$date': 1611596151918},{'$date': 1611595919409},{'$oid': '600f008f4329897eac237bd8'},True,Email,consumer
+281,WI,{'$date': 1611584651193},{'$date': 1611584650969},{'$oid': '600ed48a5edb7811cde6b549'},True,Email,consumer
+282,WI,{'$date': 1611614413981},{'$date': 1611614192551},{'$oid': '600f47f06fd0dc1768a34a12'},True,Email,consumer
+283,WI,{'$date': 1611614413981},{'$date': 1611614192551},{'$oid': '600f47f06fd0dc1768a34a12'},True,Email,consumer
+284,WI,{'$date': 1611584964970},{'$date': 1611584559286},{'$oid': '600ed42e43298911ce45d1fa'},True,Email,consumer
+285,WI,{'$date': 1611641483950},{'$date': 1611641260879},{'$oid': '600fb1ac73c60b12049027bb'},True,Email,consumer
+286,WI,{'$date': 1611641483950},{'$date': 1611641260879},{'$oid': '600fb1ac73c60b12049027bb'},True,Email,consumer
+287,WI,{'$date': 1611641483950},{'$date': 1611641260879},{'$oid': '600fb1ac73c60b12049027bb'},True,Email,consumer
+288,WI,{'$date': 1611641483950},{'$date': 1611641260879},{'$oid': '600fb1ac73c60b12049027bb'},True,Email,consumer
+289,WI,{'$date': 1611641483950},{'$date': 1611641260879},{'$oid': '600fb1ac73c60b12049027bb'},True,Email,consumer
+290,WI,{'$date': 1611641324267},{'$date': 1611641324058},{'$oid': '600fb1ec73c60b1204902af4'},True,Email,consumer
+291,WI,{'$date': 1611641483950},{'$date': 1611641260879},{'$oid': '600fb1ac73c60b12049027bb'},True,Email,consumer
+292,WI,{'$date': 1611641483950},{'$date': 1611641260879},{'$oid': '600fb1ac73c60b12049027bb'},True,Email,consumer
+293,WI,{'$date': 1611641483950},{'$date': 1611641260879},{'$oid': '600fb1ac73c60b12049027bb'},True,Email,consumer
+294,WI,{'$date': 1611641483950},{'$date': 1611641260879},{'$oid': '600fb1ac73c60b12049027bb'},True,Email,consumer
+295,WI,{'$date': 1611641483950},{'$date': 1611641260879},{'$oid': '600fb1ac73c60b12049027bb'},True,Email,consumer
+296,WI,{'$date': 1611641483950},{'$date': 1611641260879},{'$oid': '600fb1ac73c60b12049027bb'},True,Email,consumer
+297,WI,{'$date': 1611641317094},{'$date': 1611641316799},{'$oid': '600fb1e4a4b74c120bd18777'},True,Email,consumer
+298,WI,{'$date': 1611641483950},{'$date': 1611641260879},{'$oid': '600fb1ac73c60b12049027bb'},True,Email,consumer
+299,WI,{'$date': 1611641483950},{'$date': 1611641260879},{'$oid': '600fb1ac73c60b12049027bb'},True,Email,consumer
+300,WI,{'$date': 1611641483950},{'$date': 1611641260879},{'$oid': '600fb1ac73c60b12049027bb'},True,Email,consumer
+301,WI,{'$date': 1611641483950},{'$date': 1611641260879},{'$oid': '600fb1ac73c60b12049027bb'},True,Email,consumer
+302,WI,{'$date': 1611641483950},{'$date': 1611641260879},{'$oid': '600fb1ac73c60b12049027bb'},True,Email,consumer
+303,WI,{'$date': 1611789106040},{'$date': 1611789105991},{'$oid': '6011f33173c60b1804ce1102'},True,Email,consumer
+304,WI,{'$date': 1611789372023},{'$date': 1611789371933},{'$oid': '6011f43ba4b74c18d3a8ca01'},True,Email,consumer
+305,WI,{'$date': 1611789371198},{'$date': 1611789086702},{'$oid': '6011f31ea4b74c18d3a8c476'},True,Email,consumer
+306,WI,{'$date': 1611789371198},{'$date': 1611789086702},{'$oid': '6011f31ea4b74c18d3a8c476'},True,Email,consumer
+307,WI,{'$date': 1611789371198},{'$date': 1611789086702},{'$oid': '6011f31ea4b74c18d3a8c476'},True,Email,consumer
+308,WI,{'$date': 1611789352006},{'$date': 1611789351961},{'$oid': '6011f42773c60b1804ce1607'},True,Email,consumer
+309,WI,{'$date': 1611762761503},{'$date': 1611762639664},{'$oid': '60118bcfa4b74c18d3a8c0d7'},True,Email,consumer
+310,WI,{'$date': 1611710053644},{'$date': 1611710053600},{'$oid': '6010be65a4b74c120bd19edc'},True,Email,consumer
+311,WI,{'$date': 1611710065032},{'$date': 1611709914997},{'$oid': '6010bddaa4b74c120bd19dfb'},True,Email,consumer
+312,WI,{'$date': 1611762703566},{'$date': 1611762703511},{'$oid': '60118c0fa4b74c18d3a8c151'},True,Email,consumer
+313,WI,{'$date': 1611789106040},{'$date': 1611789105991},{'$oid': '6011f33173c60b1804ce1102'},True,Email,consumer
+314,WI,{'$date': 1611710065032},{'$date': 1611709914997},{'$oid': '6010bddaa4b74c120bd19dfb'},True,Email,consumer
+315,WI,{'$date': 1611789106040},{'$date': 1611789105991},{'$oid': '6011f33173c60b1804ce1102'},True,Email,consumer
+316,WI,{'$date': 1611762761503},{'$date': 1611762639664},{'$oid': '60118bcfa4b74c18d3a8c0d7'},True,Email,consumer
+317,WI,{'$date': 1611710065032},{'$date': 1611709914997},{'$oid': '6010bddaa4b74c120bd19dfb'},True,Email,consumer
+318,WI,{'$date': 1611762761503},{'$date': 1611762639664},{'$oid': '60118bcfa4b74c18d3a8c0d7'},True,Email,consumer
+319,WI,{'$date': 1611789371198},{'$date': 1611789086702},{'$oid': '6011f31ea4b74c18d3a8c476'},True,Email,consumer
+320,WI,{'$date': 1611710055028},{'$date': 1611710054981},{'$oid': '6010be6673c60b12049040ef'},True,Email,consumer
+321,WI,{'$date': 1611789106040},{'$date': 1611789105991},{'$oid': '6011f33173c60b1804ce1102'},True,Email,consumer
+322,WI,{'$date': 1611710049163},{'$date': 1611710049100},{'$oid': '6010be6173c60b12049040d7'},True,Email,consumer
+323,WI,{'$date': 1611869101904},{'$date': 1611868875898},{'$oid': '60132acb73c60b3ca7f3ba32'},True,Email,consumer
+324,WI,{'$date': 1611869101904},{'$date': 1611868875898},{'$oid': '60132acb73c60b3ca7f3ba32'},True,Email,consumer
+325,WI,,{'$date': 1611595984549},{'$oid': '600f00d05edb787dce05fb84'},True,Email,consumer
+326,WI,{'$date': 1611869101904},{'$date': 1611868875898},{'$oid': '60132acb73c60b3ca7f3ba32'},True,Email,consumer
+327,WI,,{'$date': 1611595984549},{'$oid': '600f00d05edb787dce05fb84'},True,Email,consumer
+328,WI,{'$date': 1611869061913},{'$date': 1611869061761},{'$oid': '60132b85a4b74c3cbc516295'},True,Email,consumer
+329,WI,{'$date': 1611869067387},{'$date': 1611869067222},{'$oid': '60132b8b73c60b3ca7f3baee'},True,Email,consumer
+330,WI,,{'$date': 1611602321390},{'$oid': '600f19914329897eac238fef'},True,Email,consumer
+331,WI,{'$date': 1611945351434},{'$date': 1611945351391},{'$oid': '6014558767804a1228b20d00'},True,Email,consumer
+332,WI,{'$date': 1611949509567},{'$date': 1611949509523},{'$oid': '601465c567804a1228b20f89'},True,Email,consumer
+333,WI,{'$date': 1611946716699},{'$date': 1611946556507},{'$oid': '60145a3c84231211ce796c5d'},True,Email,consumer
+334,WI,{'$date': 1611943201464},{'$date': 1611942300842},{'$oid': '6014499c67804a1228b1f5b0'},True,Email,consumer
+335,WI,,{'$date': 1611609346246},{'$oid': '600f35015edb782098e2ac1b'},True,Email,consumer
+336,WI,{'$date': 1611952129622},{'$date': 1611952129403},{'$oid': '60147001c8b50e11d8453c36'},True,Email,consumer
+337,WI,{'$date': 1611946581542},{'$date': 1611946581484},{'$oid': '60145a5584231211ce796cac'},True,Email,consumer
+338,WI,{'$date': 1611945351434},{'$date': 1611945351391},{'$oid': '6014558767804a1228b20d00'},True,Email,consumer
+339,WI,{'$date': 1611936328918},{'$date': 1611936145330},{'$oid': '6014319173c60b3ca7f3bf01'},True,Email,consumer
+340,WI,{'$date': 1611945348133},{'$date': 1611945348060},{'$oid': '6014558467804a1228b20cf0'},True,Email,consumer
+341,WI,{'$date': 1611942191937},{'$date': 1611941979324},{'$oid': '6014485b84231211ce793d79'},True,Email,consumer
+342,WI,{'$date': 1611936193362},{'$date': 1611936193318},{'$oid': '601431c173c60b3ca7f3bf63'},True,Email,consumer
+343,WI,{'$date': 1611949480758},{'$date': 1611949480680},{'$oid': '601465a884231211ce796db3'},True,Email,consumer
+344,,,{'$date': 1611948019722},{'$oid': '60145ff384231211ce796d51'},True,Email,consumer
+345,WI,{'$date': 1611952148512},{'$date': 1611951914221},{'$oid': '60146f2ac8b50e11d8452661'},True,Email,consumer
+346,WI,{'$date': 1611946716699},{'$date': 1611946556507},{'$oid': '60145a3c84231211ce796c5d'},True,Email,consumer
+347,WI,{'$date': 1611949567347},{'$date': 1611949454197},{'$oid': '6014658e67804a1228b20ef4'},True,Email,consumer
+348,WI,{'$date': 1611940734023},{'$date': 1611940558195},{'$oid': '601442ce67804a1228b1dc41'},True,Email,consumer
+349,WI,{'$date': 1611949477437},{'$date': 1611949477376},{'$oid': '601465a584231211ce796da5'},True,Email,consumer
+350,,,{'$date': 1611948019722},{'$oid': '60145ff384231211ce796d51'},True,Email,consumer
+351,OH,,{'$date': 1611955498184},{'$oid': '60147d2ac8b50e11d8453f53'},True,Email,consumer
+352,OH,,{'$date': 1611955498184},{'$oid': '60147d2ac8b50e11d8453f53'},True,Email,consumer
+353,WI,{'$date': 1612222633126},{'$date': 1612222633079},{'$oid': '601890a99a1b091205b61ced'},True,Email,consumer
+354,WI,{'$date': 1612198112031},{'$date': 1612198032843},{'$oid': '60183090c8b50e11d84549c0'},True,Email,consumer
+355,WI,{'$date': 1612198112031},{'$date': 1612198032843},{'$oid': '60183090c8b50e11d84549c0'},True,Email,consumer
+356,OH,,{'$date': 1611955498184},{'$oid': '60147d2ac8b50e11d8453f53'},True,Email,consumer
+357,WI,{'$date': 1612197706615},{'$date': 1612197706573},{'$oid': '60182f4ac8b50e11d8454946'},True,Email,consumer
+358,WI,{'$date': 1612197361759},{'$date': 1612197229873},{'$oid': '60182d6dc8b50e11d84547b2'},True,Email,consumer
+359,OH,,{'$date': 1611955498184},{'$oid': '60147d2ac8b50e11d8453f53'},True,Email,consumer
+360,WI,{'$date': 1612201167811},{'$date': 1612201047795},{'$oid': '60183c579a1b091205b61a5f'},True,Email,consumer
+361,OH,,{'$date': 1611955498184},{'$oid': '60147d2ac8b50e11d8453f53'},True,Email,consumer
+362,WI,{'$date': 1612225684073},{'$date': 1612225684020},{'$oid': '60189c94c8b50e11d8454f6b'},True,Email,consumer
+363,WI,{'$date': 1612225749977},{'$date': 1612225652642},{'$oid': '60189c74c8b50e11d8454eff'},True,Email,consumer
+364,WI,{'$date': 1612225749977},{'$date': 1612225652642},{'$oid': '60189c74c8b50e11d8454eff'},True,Email,consumer
+365,WI,{'$date': 1612225684073},{'$date': 1612225684020},{'$oid': '60189c94c8b50e11d8454f6b'},True,Email,consumer
+366,WI,{'$date': 1612225749977},{'$date': 1612225652642},{'$oid': '60189c74c8b50e11d8454eff'},True,Email,consumer
+367,WI,{'$date': 1612225749977},{'$date': 1612225652642},{'$oid': '60189c74c8b50e11d8454eff'},True,Email,consumer
+368,WI,{'$date': 1612225672868},{'$date': 1612225672817},{'$oid': '60189c88c8b50e11d8454f2f'},True,Email,consumer
+369,WI,{'$date': 1612225749977},{'$date': 1612225652642},{'$oid': '60189c74c8b50e11d8454eff'},True,Email,consumer
+370,WI,{'$date': 1612225669193},{'$date': 1612225669145},{'$oid': '60189c859a1b091205b61de1'},True,Email,consumer
+371,WI,{'$date': 1612225749977},{'$date': 1612225652642},{'$oid': '60189c74c8b50e11d8454eff'},True,Email,consumer
+372,WI,{'$date': 1612225749977},{'$date': 1612225652642},{'$oid': '60189c74c8b50e11d8454eff'},True,Email,consumer
+373,WI,{'$date': 1612225684073},{'$date': 1612225684020},{'$oid': '60189c94c8b50e11d8454f6b'},True,Email,consumer
+374,WI,{'$date': 1612225684073},{'$date': 1612225684020},{'$oid': '60189c94c8b50e11d8454f6b'},True,Email,consumer
+375,,,{'$date': 1612210743551},{'$oid': '60186237c8b50e11d8454d5f'},True,Email,consumer
+376,,,{'$date': 1612210743551},{'$oid': '60186237c8b50e11d8454d5f'},True,Email,consumer
+377,WI,{'$date': 1612366298909},{'$date': 1612366298705},{'$oid': '601ac1da591789121574dc07'},True,Email,consumer
+378,,,{'$date': 1612210743551},{'$oid': '60186237c8b50e11d8454d5f'},True,Email,consumer
+379,SC,,{'$date': 1612201580468},{'$oid': '60183e6c9a1b091205b61b49'},True,Email,consumer
+380,WI,{'$date': 1612366451043},{'$date': 1612366229397},{'$oid': '601ac195af4b1a1205f7560f'},True,Email,consumer
+381,,,{'$date': 1612210743551},{'$oid': '60186237c8b50e11d8454d5f'},True,Email,consumer
+382,,,{'$date': 1612210743551},{'$oid': '60186237c8b50e11d8454d5f'},True,Email,consumer
+383,WI,{'$date': 1612474590188},{'$date': 1612474503045},{'$oid': '601c6887969c0b11f7d0c81f'},True,Email,consumer
+384,WI,{'$date': 1612474578572},{'$date': 1612474578530},{'$oid': '601c68d229c30a1227ada484'},True,Email,consumer
+385,WI,{'$date': 1612459230228},{'$date': 1612459013700},{'$oid': '601c2c05969c0b11f7d0b097'},True,Email,consumer
+386,WI,{'$date': 1612459114650},{'$date': 1612459114447},{'$oid': '601c2c6a29c30a1227ad93bd'},True,Email,consumer
+387,WI,{'$date': 1612459230228},{'$date': 1612459013700},{'$oid': '601c2c05969c0b11f7d0b097'},True,Email,consumer
+388,WI,{'$date': 1525713820003},{'$date': 1429242233186},{'$oid': '55308179e4b0eabd8f99caa2'},True,,consumer
+389,WI,,{'$date': 1612808103714},{'$oid': '60217fa799409b11fcf899fe'},True,Email,consumer
+390,WI,{'$date': 1612805833989},{'$date': 1612805833950},{'$oid': '602176c9b57b8a12187fe77e'},True,Email,consumer
+391,WI,{'$date': 1612805795150},{'$date': 1612805795109},{'$oid': '602176a3b57b8a12187fe717'},True,Email,consumer
+392,WI,{'$date': 1612880338835},{'$date': 1612880261257},{'$oid': '6022998599409b11fcf89c53'},True,Email,consumer
+393,WI,{'$date': 1612880272626},{'$date': 1612880272581},{'$oid': '60229990b57b8a12187fe9e0'},True,Email,consumer
+394,WI,{'$date': 1612880272626},{'$date': 1612880272581},{'$oid': '60229990b57b8a12187fe9e0'},True,Email,consumer
+395,WI,{'$date': 1612802578117},{'$date': 1505830074302},{'$oid': '59c124bae4b0299e55b0f330'},True,,fetch-staff
+396,WI,{'$date': 1612802578117},{'$date': 1505830074302},{'$oid': '59c124bae4b0299e55b0f330'},True,,fetch-staff
+397,WI,{'$date': 1612802578117},{'$date': 1505830074302},{'$oid': '59c124bae4b0299e55b0f330'},True,,fetch-staff
+398,WI,{'$date': 1612802578117},{'$date': 1505830074302},{'$oid': '59c124bae4b0299e55b0f330'},True,,fetch-staff
+399,WI,{'$date': 1612802578117},{'$date': 1505830074302},{'$oid': '59c124bae4b0299e55b0f330'},True,,fetch-staff
+400,WI,{'$date': 1612802578117},{'$date': 1505830074302},{'$oid': '59c124bae4b0299e55b0f330'},True,,fetch-staff
+401,WI,{'$date': 1612802578117},{'$date': 1505830074302},{'$oid': '59c124bae4b0299e55b0f330'},True,,fetch-staff
+402,WI,{'$date': 1612802578117},{'$date': 1505830074302},{'$oid': '59c124bae4b0299e55b0f330'},True,,fetch-staff
+403,WI,{'$date': 1612802578117},{'$date': 1505830074302},{'$oid': '59c124bae4b0299e55b0f330'},True,,fetch-staff
+404,WI,{'$date': 1612986782079},{'$date': 1612986781857},{'$oid': '6024399defa60112282c0ac9'},True,Email,consumer
+405,WI,{'$date': 1612802578117},{'$date': 1505830074302},{'$oid': '59c124bae4b0299e55b0f330'},True,,fetch-staff
+406,WI,{'$date': 1612802578117},{'$date': 1505830074302},{'$oid': '59c124bae4b0299e55b0f330'},True,,fetch-staff
+407,WI,{'$date': 1612802578117},{'$date': 1505830074302},{'$oid': '59c124bae4b0299e55b0f330'},True,,fetch-staff
+408,WI,{'$date': 1612452605375},{'$date': 1595959440905},{'$oid': '5f2068904928021530f8fc34'},True,Email,fetch-staff
+409,WI,{'$date': 1612802578117},{'$date': 1505830074302},{'$oid': '59c124bae4b0299e55b0f330'},True,,fetch-staff
+410,WI,{'$date': 1612802578117},{'$date': 1505830074302},{'$oid': '59c124bae4b0299e55b0f330'},True,,fetch-staff
+411,WI,{'$date': 1612802578117},{'$date': 1505830074302},{'$oid': '59c124bae4b0299e55b0f330'},True,,fetch-staff
+412,WI,{'$date': 1612802578117},{'$date': 1505830074302},{'$oid': '59c124bae4b0299e55b0f330'},True,,fetch-staff
+413,WI,{'$date': 1612802578117},{'$date': 1505830074302},{'$oid': '59c124bae4b0299e55b0f330'},True,,fetch-staff
+414,WI,{'$date': 1612802578117},{'$date': 1505830074302},{'$oid': '59c124bae4b0299e55b0f330'},True,,fetch-staff
+415,WI,{'$date': 1613060273798},{'$date': 1613060273738},{'$oid': '602558b1efa60114d20e5dc7'},True,Email,consumer
+416,WI,{'$date': 1613052077388},{'$date': 1613052077332},{'$oid': '602538adb54593795bf692ac'},True,Email,consumer
+417,WI,{'$date': 1613060309219},{'$date': 1613060227502},{'$oid': '60255883efa60114d20e5d4e'},True,Email,consumer
+418,WI,{'$date': 1613060269893},{'$date': 1613060269831},{'$oid': '602558adb5459313e1e9b7ce'},True,Email,consumer
+419,WI,{'$date': 1613052047332},{'$date': 1613052047269},{'$oid': '6025388fb54593795bf69234'},True,Email,consumer
+420,AL,,{'$date': 1605410936818},{'$oid': '5fb0a078be5fc9775c1f3945'},True,Google,consumer
+421,WI,{'$date': 1613139066294},{'$date': 1613139066240},{'$oid': '60268c7aefa6011bb1510786'},True,Email,consumer
+422,,{'$date': 1613146957155},{'$date': 1514389647059},{'$oid': '5a43c08fe4b014fd6b6a0612'},True,,consumer
+423,,{'$date': 1613146957155},{'$date': 1514389647059},{'$oid': '5a43c08fe4b014fd6b6a0612'},True,,consumer
+424,,{'$date': 1613146957155},{'$date': 1514389647059},{'$oid': '5a43c08fe4b014fd6b6a0612'},True,,consumer
+425,,{'$date': 1613146957155},{'$date': 1514389647059},{'$oid': '5a43c08fe4b014fd6b6a0612'},True,,consumer
+426,,{'$date': 1613146957155},{'$date': 1514389647059},{'$oid': '5a43c08fe4b014fd6b6a0612'},True,,consumer
+427,WI,{'$date': 1613139127107},{'$date': 1613139049408},{'$oid': '60268c69efa6011bb151075f'},True,Email,consumer
+428,,{'$date': 1613146957155},{'$date': 1514389647059},{'$oid': '5a43c08fe4b014fd6b6a0612'},True,,consumer
+429,AL,,{'$date': 1605410936818},{'$oid': '5fb0a078be5fc9775c1f3945'},True,Google,consumer
+430,,{'$date': 1613146957155},{'$date': 1514389647059},{'$oid': '5a43c08fe4b014fd6b6a0612'},True,,consumer
+431,,{'$date': 1613146957155},{'$date': 1514389647059},{'$oid': '5a43c08fe4b014fd6b6a0612'},True,,consumer
+432,,{'$date': 1614313551057},{'$date': 1606169969509},{'$oid': '5fbc35711d967d1222cbfefc'},True,Email,fetch-staff
+433,,{'$date': 1614313551057},{'$date': 1606169969509},{'$oid': '5fbc35711d967d1222cbfefc'},True,Email,fetch-staff
+434,,{'$date': 1614313551057},{'$date': 1606169969509},{'$oid': '5fbc35711d967d1222cbfefc'},True,Email,fetch-staff
+435,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+436,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+437,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+438,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+439,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+440,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+441,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+442,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+443,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+444,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+445,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+446,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+447,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+448,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+449,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+450,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+451,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+452,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+453,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+454,NH,{'$date': 1614379156799},{'$date': 1607033283936},{'$oid': '5fc961c3b8cfca11a077dd33'},True,Email,fetch-staff
+455,,{'$date': 1614873722026},{'$date': 1604589429396},{'$oid': '5fa41775898c7a11a6bcef3e'},True,Email,fetch-staff
+456,AL,{'$date': 1614842518047},{'$date': 1604528973309},{'$oid': '5fa32b4d898c7a11a6bcebce'},True,Google,fetch-staff
+457,,{'$date': 1614873722026},{'$date': 1604589429396},{'$oid': '5fa41775898c7a11a6bcef3e'},True,Email,fetch-staff
+458,,{'$date': 1614873722026},{'$date': 1604589429396},{'$oid': '5fa41775898c7a11a6bcef3e'},True,Email,fetch-staff
+459,,{'$date': 1614873722026},{'$date': 1604589429396},{'$oid': '5fa41775898c7a11a6bcef3e'},True,Email,fetch-staff
+460,,{'$date': 1614873722026},{'$date': 1604589429396},{'$oid': '5fa41775898c7a11a6bcef3e'},True,Email,fetch-staff
+461,,{'$date': 1614873722026},{'$date': 1604589429396},{'$oid': '5fa41775898c7a11a6bcef3e'},True,Email,fetch-staff
+462,IL,{'$date': 1614884869770},{'$date': 1499785991771},{'$oid': '5964eb07e4b03efd0c0f267b'},True,,fetch-staff
+463,,{'$date': 1614873722026},{'$date': 1604589429396},{'$oid': '5fa41775898c7a11a6bcef3e'},True,Email,fetch-staff
+464,,{'$date': 1614873722026},{'$date': 1604589429396},{'$oid': '5fa41775898c7a11a6bcef3e'},True,Email,fetch-staff
+465,,{'$date': 1614873722026},{'$date': 1604589429396},{'$oid': '5fa41775898c7a11a6bcef3e'},True,Email,fetch-staff
+466,,{'$date': 1614873722026},{'$date': 1604589429396},{'$oid': '5fa41775898c7a11a6bcef3e'},True,Email,fetch-staff
+467,,{'$date': 1614873722026},{'$date': 1604589429396},{'$oid': '5fa41775898c7a11a6bcef3e'},True,Email,fetch-staff
+468,,{'$date': 1614873722026},{'$date': 1604589429396},{'$oid': '5fa41775898c7a11a6bcef3e'},True,Email,fetch-staff
+469,,{'$date': 1614873722026},{'$date': 1604589429396},{'$oid': '5fa41775898c7a11a6bcef3e'},True,Email,fetch-staff
+470,,{'$date': 1614873722026},{'$date': 1604589429396},{'$oid': '5fa41775898c7a11a6bcef3e'},True,Email,fetch-staff
+471,,{'$date': 1614873722026},{'$date': 1604589429396},{'$oid': '5fa41775898c7a11a6bcef3e'},True,Email,fetch-staff
+472,,{'$date': 1614873722026},{'$date': 1604589429396},{'$oid': '5fa41775898c7a11a6bcef3e'},True,Email,fetch-staff
+473,,{'$date': 1614873722026},{'$date': 1604589429396},{'$oid': '5fa41775898c7a11a6bcef3e'},True,Email,fetch-staff
+474,,{'$date': 1614873722026},{'$date': 1604589429396},{'$oid': '5fa41775898c7a11a6bcef3e'},True,Email,fetch-staff
+475,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+476,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+477,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+478,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+479,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+480,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+481,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+482,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+483,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+484,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+485,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+486,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+487,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+488,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+489,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+490,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+491,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+492,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+493,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff
+494,,{'$date': 1614963143204},{'$date': 1418998882381},{'$oid': '54943462e4b07e684157a532'},True,,fetch-staff

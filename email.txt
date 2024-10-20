@@ -1,0 +1,61 @@
+Hi,
+
+Hope you're doing well! 
+
+I’ve completed the initial data modeling and analysis and would like to discuss some details and next steps with you. 
+For a clearer picture, you may refer to the ER diagram as attached. To begin with, the following data quality rules is tested:
+1. Duplicate row of a table
+2. Check column Unique
+3. Check column NULL
+4. Foreign key constraint
+
+For rule 1 and 2, we will need to clarify the data model with business team. As for now, I am only checking the primary keys:
+Users table
+dq1: check for duplicate rows
+_id:  283
+dq2: check column unique
+_id:  283
+dq3: check column missing
+_id:  0
+
+Brands table
+dq1: check for duplicate rows
+_id:  0
+dq2: check column unique
+_id:  0
+dq3: check column missing
+_id:  0
+
+Receipts table
+dq1: check for duplicate rows
+_id:  0
+dq2: check column unique
+_id:  0
+dq3: check column missing
+_id:  0
+dq4: check foreign key constraint
+
+
+Here are a few questions I have about the data:
+1. Is there a field in `receipts.json` that indicates the brand of each item? We’ll need this to establish relationships with `brands.json`.
+2. Should `category` and `categoryCode` in `brands.json` be one to one mapping? have a one-to-one mapping? If so, we may want to normalize these fields to prevent inconsistencies.
+3. Could you clarify the meaning of the `cpg` field in `brands.json`?
+4. Can you provide guidance on decoding the timestamp data? I tried using Unix timestamps with milliseconds, and it seems to work, but I’d like to confirm.
+
+Besides, I have a few suggestions on our next steps:
+1. To improve data quality checks and facilitate cross-functional communication, I suggest creating documentation for the schema and column requirements. For example:
+| Table Name | Column Name | Type | Nullable | Unique | Range | Description | Example |
+2. We could modularize the data quality checks, making them configurable for the business team. An Excel sheet with rules (e.g., "unique", "range") that the team can fill in might be helpful!
+3. We should also consider architectural improvements. Here are some key questions we should address:
+    * Will the data be processed in streaming or batch mode?
+    * Are there any performance or timing constraints?
+    * Have we conducted a sizing analysis?
+    * Are there bottlenecks in data storage or analysis? If so, we can consider distributed storage and analysis solution such as Hadoop and Spark.
+
+Please let me know when you’re available to meet, and if you'd like to include other team members so I can brief them through relevant parts and schedule the meeting.
+
+Thank you for the time!
+
+
+Best,
+Mark
