@@ -89,7 +89,8 @@ def main():
     df_users = convert_to_datetime(df_users, 'lastLogin')
 
     # Users table
-    print('Users')
+    print('Users data from users.json')
+    print("total rows: ", df_users.shape[0])
     print('dq1: check for duplicate rows')
     print("_id: ", check_duplicate_row("Users", df_users))
     print('dq2: check column unique')
@@ -98,7 +99,8 @@ def main():
     print("_id: ", check_column_missing(df_users, '_id'))
 
     # Brands table
-    print('\nBrands')
+    print('\nBrands data from brands.json')
+    print("total rows: ", df_brands.shape[0])
     print('dq1: check for duplicate rows')
     print("_id: ", check_duplicate_row("Brands", df_brands))
     print('dq2: check column unique')
@@ -107,7 +109,8 @@ def main():
     print("_id: ", check_column_missing(df_brands, '_id'))
 
     # Receipts table
-    print('\nReceipts')
+    print('\nReceipts data from receipts.json')
+    print("total rows: ", df_receipts.shape[0])
     print('dq1: check for duplicate rows')
     print("_id: ", check_duplicate_row("Receipts", df_receipts))
     print('dq2: check column unique')

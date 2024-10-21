@@ -138,9 +138,10 @@ For data quality, I have developed functions that can test the following:
 3. Check column NULL
 4. Foreign key constraint
 
-For rule 1 and 2, we will need to clarify which colunmn cannot be null or has to be unique. As for now, I am only checking the primary keys. Here's a brief summary from `./script/dq_check.py`. The DQ reports can also be found in `./dq_report` folder.
+For rule 1 and 2, we will need to clarify which colunmn cannot be null or has to be unique. As for now, I am only checking the primary keys (_id). Here's a brief summary from `./script/dq_check.py`. The DQ reports can also be found in `./dq_report` folder.
 ```markdown
-Users
+Users data from users.json
+total rows:  495
 dq1: check for duplicate rows
 _id:  283
 dq2: check column unique
@@ -148,7 +149,8 @@ _id:  283
 dq3: check column missing
 _id:  0
 
-Brands
+Brands data from brands.json
+total rows:  1167
 dq1: check for duplicate rows
 _id:  0
 dq2: check column unique
@@ -156,7 +158,8 @@ _id:  0
 dq3: check column missing
 _id:  0
 
-Receipts
+Receipts data from receipts.json
+total rows:  1119
 dq1: check for duplicate rows
 _id:  0
 dq2: check column unique

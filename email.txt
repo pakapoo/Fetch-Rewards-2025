@@ -9,8 +9,9 @@ For a clearer picture, you may refer to the ER diagram as attached. To begin wit
 3. Check column NULL
 4. Foreign key constraint
 
-For rule 1 and 2, we will need to clarify which colunmn cannot be null or has to be unique. As for now, I am only checking the primary keys:
-Users table
+For rule 1 and 2, we will need to clarify which colunmn cannot be null or has to be unique. As for now, I am only checking the primary keys (_id). The DQ reports can also be found in `./dq_report` folder.
+Users data from users.json
+total rows:  495
 dq1: check for duplicate rows
 _id:  283
 dq2: check column unique
@@ -18,7 +19,8 @@ _id:  283
 dq3: check column missing
 _id:  0
 
-Brands table
+Brands data from brands.json
+total rows:  1167
 dq1: check for duplicate rows
 _id:  0
 dq2: check column unique
@@ -26,7 +28,8 @@ _id:  0
 dq3: check column missing
 _id:  0
 
-Receipts table
+Receipts data from receipts.json
+total rows:  1119
 dq1: check for duplicate rows
 _id:  0
 dq2: check column unique
