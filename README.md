@@ -19,7 +19,7 @@ The ER diagram was created based on the following observations and consideration
 2. For the data model, `Receipts` functions as the fact table, while `Users` and `Brands` serve as dimension tables. We can establish the following foreign key relationships:
     * The `userId` field in `Receipts` serves as a foreign key linking to the `_id` field `Users`.
     * Since no clear foreign key connects `Receipts` to `Brands`, we will create one named `brandId`.
-3.For normalization, the `rewardsReceiptItemList` field in `Receipts.json` contains a list of dictionaries. Flattening this structure into a single table would result in a large, complex dataset (either a wide table or a lengthy table), which could slow down queries—especially if the business team is primarily interested in receipt-level, not item-level, details. To improve query performance, simplify maintenance, and keep the data model intuitive, I recommend normalizing this field into a separate table named `ReceiptItems`.
+3. For normalization, the `rewardsReceiptItemList` field in `Receipts.json` contains a list of dictionaries. Flattening this structure into a single table would result in a large, complex dataset (either a wide table or a lengthy table), which could slow down queries—especially if the business team is primarily interested in receipt-level, not item-level, details. To improve query performance, simplify maintenance, and keep the data model intuitive, I recommend normalizing this field into a separate table named `ReceiptItems`.
 
 Based on the analysis above, and the results from `./script/data_exploration.ipynb` that lists all the columns in the JSON files, I created the following ER diagram using Crow’s Foot notation:
 
