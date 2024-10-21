@@ -1,5 +1,4 @@
-# Fetch-Rewards-2025
-Fetch Rewards Coding Exercise - Analytics Engineer
+# Fetch Rewards Coding Exercise - Analytics Engineer
 
 ## Requirements
 1. Review unstructured JSON data and diagram a new structured relational data model
@@ -10,24 +9,24 @@ Fetch Rewards Coding Exercise - Analytics Engineer
 ## Tools
 * In part one, *Python Jupyter notebook* is used for data exploration.
 * In part two, *MySQL* dialect is used for SQL queries.
-* In part 3, *Python* is used for data quality checks.
+* In part three, *Python* is used for data quality checks.
 
 ## Solution
 ### Part 1: ER diagram
 The ER diagram was created based on the following observations and considerations:
 1. Following the naming conventions of the three provided JSON files, I named the tables as `Receipts`, `Users` and `Brands`.
     * All tables contain a unique  `_id` field, which we will use as the primary key.
-2. `Receipts` functions as the fact table, while `Users` and `Brands` serve as dimension tables. We can establish the following foreign key relationships:
-    * The `userId` field in `Receipts` serves as a foreign key linking to `Users`.
+2. For the data model, `Receipts` functions as the fact table, while `Users` and `Brands` serve as dimension tables. We can establish the following foreign key relationships:
+    * The `userId` field in `Receipts` serves as a foreign key linking to the `_id` field `Users`.
     * Since no clear foreign key connects `Receipts` to `Brands`, we will create one named `brandId`.
-3. The `rewardsReceiptItemList` field in `Receipts.json` contains a list of dictionaries. Flattening this structure into a single table would result in a large, complex dataset (either a wide table or a length table), which could slow down queries—especially if the business team is primarily interested in receipt-level, not item-level, details. To improve query performance, simplify maintenance, and keep the data model intuitive, I recommend normalizing this field into a separate table named `ReceiptItems`.
+3.For normalization, the `rewardsReceiptItemList` field in `Receipts.json` contains a list of dictionaries. Flattening this structure into a single table would result in a large, complex dataset (either a wide table or a lengthy table), which could slow down queries—especially if the business team is primarily interested in receipt-level, not item-level, details. To improve query performance, simplify maintenance, and keep the data model intuitive, I recommend normalizing this field into a separate table named `ReceiptItems`.
 
-Based on the analysis above, and the results from `./script/data_exploration.ipynb`, which lists all the columns in the JSON files, I created the following ER diagram using Crow’s Foot notation:
+Based on the analysis above, and the results from `./script/data_exploration.ipynb` that lists all the columns in the JSON files, I created the following ER diagram using Crow’s Foot notation:
 
 ![ER diagram](src/fetch.drawio-4.png)
 
 ### Part 2: SQL queries
-All six queries are answered below using MySQL syntax
+All six queries are answered below using MySQL syntax.
 #### What are the top 5 brands by receipts scanned for most recent month?
 
 The solution is based on the understanding that if a receipt has 5 items, 3 of which are from brand A and 2 are from brand B. This will contribute 3 to brand A and 2 to brand B total receipt counts.
@@ -139,7 +138,7 @@ For data quality, I have developed functions that can test the following:
 3. Check column NULL
 4. Foreign key constraint
 
-For rule 1 and 2, we will need to clarify the data model with business team. As for now, I am only checking the primary keys. Here's a brief summary from `./script/dq_check.py`. The DQ reports can also be found in `./dq_report` folder
+For rule 1 and 2, we will need to clarify which colunmn cannot be null or has to be unique. As for now, I am only checking the primary keys. Here's a brief summary from `./script/dq_check.py`. The DQ reports can also be found in `./dq_report` folder.
 ```markdown
 Users
 dq1: check for duplicate rows
@@ -165,6 +164,7 @@ _id:  0
 dq3: check column missing
 _id:  0
 dq4: check foreign key constraint
+userId not in Users table:  148
 ```
 
 You may also execute with the following commands to run on your laptop:
@@ -173,7 +173,7 @@ source ./my_virtual_env/bin/activate
 python3 ./script/dq_check.py
 ```
 
-Additionally, a potential DQ violation is that the fields Category doesn't guarantee 1:1 mapping to Category Code in `brands.json`. Please see `email.txt` for further information.
+Additionally, a potential DQ violation is that the fields Category doesn't guarantee 1:1 mapping to Category Code in `brands.json`. Please see `email.txt` for the final summary.
 
 ### Part 4: Communicate with stakeholder
 Please refer to `email.txt`.

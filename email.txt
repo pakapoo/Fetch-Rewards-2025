@@ -9,7 +9,7 @@ For a clearer picture, you may refer to the ER diagram as attached. To begin wit
 3. Check column NULL
 4. Foreign key constraint
 
-For rule 1 and 2, we will need to clarify the data model with business team. As for now, I am only checking the primary keys:
+For rule 1 and 2, we will need to clarify which colunmn cannot be null or has to be unique. As for now, I am only checking the primary keys:
 Users table
 dq1: check for duplicate rows
 _id:  283
@@ -34,6 +34,7 @@ _id:  0
 dq3: check column missing
 _id:  0
 dq4: check foreign key constraint
+userId not in Users table:  148
 
 
 Here are a few questions I have about the data:
